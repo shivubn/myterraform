@@ -1,5 +1,5 @@
-acess_key = "AKIA34GCPPSPJLL2XNUW"
-secret_key = "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"
+acess_key = ""
+secret_key = ""
 environment = "dev"
 cidr ="192.168.0.0/16"
 my-pub-sub-1-cidr ="192.168.16.0/24"
